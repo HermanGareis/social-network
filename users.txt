@@ -1,0 +1,10 @@
+1;Marcos Zarate;37;M;Puerto Madryn;
+2;Carlos Diaz;22;M;Trelew;
+3;Daniela Medina;45;F;Puerto Madryn;
+4;Maria Soto;18;F;Trelew;
+5;Mariano Perez;33;M;Puerto Madryn;
+6;Diego Correa;51;M;Rawson;
+7;Carolina Ferrari;12;F;Puerto Madryn;
+8;Franco Matto;32;M;Trelew;
+9;Juan Sierra;21;M;Puerto Madryn;
+10;Carla Blanco;28;F;Puerto Madryn;
